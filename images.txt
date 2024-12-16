@@ -1,9 +1,17 @@
 yegle/fava:latest
 xhofe/alist:latest
+b3log/siyuan:latest
 nyanmisaka/jellyfin:latest
+qdtoday/qd:latest
+duplicati/duplicati:latest
+easychen/cookiecloud:latest
+
 ghcr.io/imagegenius/immich:latest
 ghcr.io/immich-app/immich-machine-learning:release
 ghcr.io/immich-app/immich-server:release
+
+
+
 #ghcr.io/immich-app/immich-server:v1.117.0
 #ghcr.io/immich-app/immich-machine-learning:v1.117.0
 #ghcr.io/immich-app/immich-server:v1.106.3
