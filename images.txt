@@ -6,6 +6,10 @@ qdtoday/qd:latest
 duplicati/duplicati:latest
 easychen/cookiecloud:latest
 
+fruitbars/simple-one-api:latest
+idootop/mi-gpt:latest
+hanxi/xiaomusic:latest
+
 ghcr.io/imagegenius/immich:latest
 ghcr.io/immich-app/immich-machine-learning:release
 ghcr.io/immich-app/immich-server:release
