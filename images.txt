@@ -1,7 +1,7 @@
 yegle/fava:latest
 xhofe/alist:latest
 b3log/siyuan:latest
-
+lobehub/lobe-chat:latest
 qdtoday/qd:latest
 duplicati/duplicati:latest
 easychen/cookiecloud:latest
